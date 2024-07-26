@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Luis Alejandro Gonzalez Gil! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**AlejandroG-code/AlejandroG-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (UVAQ) with a strong desire to learn and work. My passion for technology drives me to continuously seek new skills and knowledge, allowing me to grow both personally and professionally.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Python, Java
+- **Technical Knowledge:** Networks, Operating Systems
+- **Languages:** Spanish, English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Simple Car Wash Program](#link-to-repo)**
+- **[Simple File Manager Program (simulator)](#link-to-repo)**
+
+## Achievements
+- 2 first places in internal programming competitions at the career level in my university.
+- 1 second place in internal programming competitions at the faculty of technologies level in my university.
+- Ranked 2367 out of 7091 globally in IEEExtreme 17.0.
+
+## Contact
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](#)
