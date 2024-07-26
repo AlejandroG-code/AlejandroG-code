@@ -18,5 +18,5 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 - Ranked 2367 out of 7091 globally in IEEExtreme 17.0.
 
 ## Contact
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
+- **Email:** [alejandro.g.engineer@gmail.com](mailto:alejandro.g.engineer@gmail.com)
+//- **LinkedIn:** [linkedin.com/in/yourprofile](#)
