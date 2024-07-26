@@ -9,8 +9,8 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 - **Languages:** Spanish, English
 
 ## Projects
-- **[Simple Car Wash Program](#link-to-repo)**
-- **[Simple File Manager Program (simulator)](#link-to-repo)**
+- **[Simple Car Wash Program]**
+- **[Simple File Manager Program (simulator)]**
 
 ## Achievements
 - 2 first places in internal programming competitions at the career level in my university.
@@ -19,4 +19,4 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 
 ## Contact
 - **Email:** [alejandro.g.engineer@gmail.com](mailto:alejandro.g.engineer@gmail.com)
-//- **LinkedIn:** [linkedin.com/in/yourprofile](#)
+- **LinkedIn:** [linkedin.com/in/alejandro-gonzalez-06b69031b](#)
