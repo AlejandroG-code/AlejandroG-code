@@ -8,10 +8,6 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 - **Technical Knowledge:** Networks, Operating Systems
 - **Languages:** Spanish, English
 
-## Projects
-- **[Simple Car Wash Program]**
-- **[Simple File Manager Program (simulator)]**
-
 ## Achievements
 - 2 first places in internal programming competitions at the career level in my university.
 - 1 second place in internal programming competitions at the faculty of technologies level in my university.
