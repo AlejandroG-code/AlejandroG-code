@@ -9,9 +9,10 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 - **Languages:** Spanish, English
 
 ## Achievements
-- 2 first places in internal programming competitions at the career level in my university.
-- 1 second place in internal programming competitions at the faculty of technologies level in my university.
+- 2 first places in internal programming competitions 
+- 1 second place in internal programming competitions
 - Ranked 2367 out of 7091 globally in IEEExtreme 17.0.
+- Experience teaching java
 
 ## Contact
 - **Email:** [alejandro.g.engineer@gmail.com](mailto:alejandro.g.engineer@gmail.com)
