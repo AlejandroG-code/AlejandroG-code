@@ -12,7 +12,12 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 - 2 first places in internal programming competitions 
 - 1 second place in internal programming competitions
 - Ranked 2367 out of 7091 globally in IEEExtreme 17.0.
-- Experience teaching java
+- Ranked 261 out of 19908 globally in IEEExtreme Practice Comunity
+
+
+## Experience
+- Experience teaching java basics for begginers (4 months)
+- Experience teaching python basics for begginers (2 months)
 
 ## Contact
 - **Email:** [alejandro.g.engineer@gmail.com](mailto:alejandro.g.engineer@gmail.com)
