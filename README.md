@@ -6,7 +6,7 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 ## Skills
 - **Programming Languages:** Python, Java
 - **Technical Knowledge:** Networks, Operating Systems
-- **Languages:** Spanish, English
+- **Languages:** Spanish (Native), English (C1 certificated)
 
 ## Achievements
 - 2 first places in internal programming competitions 
