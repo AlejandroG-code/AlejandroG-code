@@ -12,6 +12,7 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 - 2 first places in internal programming competitions 
 - 1 second place in internal programming competitions
 - Ranked 2367 out of 7091 globally in IEEExtreme 17.0.
+- Ranked 1717 out of 5801 globally in IEEExtreme 18.0.
 - Ranked 261 out of 19908 globally in IEEExtreme Practice Comunity
 
 
