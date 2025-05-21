@@ -17,8 +17,8 @@ I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (U
 
 
 ## Experience
-- Experience teaching java basics for begginers (4 months)
-- Experience teaching python basics for begginers (2 months)
+- Experience teaching java basics for begginers (6 months)
+- Experience teaching python basics for begginers (6 months)
 
 ## Contact
 - **Email:** [alejandro.g.engineer@gmail.com](mailto:alejandro.g.engineer@gmail.com)
