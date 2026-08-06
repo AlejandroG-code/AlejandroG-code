@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="http://googleusercontent.com/image_generation_content/469" alt="SOLEMV CAT IN A TUXEDO - LUIS ALEJANDRO GONZALEZ GIL" />
+  <img height="280" src="./cat-tuxedo.png" alt="Solemn Cat in Tuxedo - Luis Alejandro González Gil" />
 </div>
 
 # Hi there, I'm Luis Alejandro González Gil! 👋 
@@ -79,13 +79,6 @@ An algorithmic cash-handling software engine designed for optimal currency distr
 ---
 
 ### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejandroG-code&theme=tokyonight" alt="GitHub Profile Summary" />
-</div>
-
-<br />
 
 <div align="center">
   <!-- General GitHub Stats -->
