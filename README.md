@@ -75,14 +75,11 @@ A peer-to-peer real-time tactical match simulation application.
 ### 📊 GitHub Stats & Productivity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlejandroG-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroG-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlejandroG-code&theme=tokyonight&hide_border=true&layout=compact" alt="Most Productive Hours" />
+  <!-- GitHub Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlejandroG-code&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <!-- GitHub Streak Stats -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroG-code&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
