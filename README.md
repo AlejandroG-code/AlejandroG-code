@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="280" src="http://googleusercontent.com/image_generation_content/469" alt="SOLEMV CAT IN A TUXEDO - LUIS ALEJANDRO GONZALEZ GIL" />
+</div>
+
 # Hi there, I'm Luis Alejandro González Gil! 👋 
 
 <div align="left">
@@ -10,7 +14,9 @@
 
 ### 👨‍💻 About Me
 
-I am a **Systems Engineering student** at **Universidad Vasco de Quiroga (UVAQ)** with a strong focus on full-stack web development, backend architecture, dynamic systems, and competitive programming.
+Yes, that’s me. Or rather, the authorized digital representation of my logic and focus during complex debugging sessions and extreme competitive programming. While the face might look solemn, my actual goal is to build elegant, full-stack software systems.
+
+I am a **Systems Engineering student** at **Universidad Vasco de Quiroga (UVAQ)** with a passionate focus on backend development, software architecture, and optimizing algorithms for maximum efficiency.
 
 * 🔭 **Focus:** Full-Stack Web Development, Backend Architecture & Relational Databases
 * 🎓 **Education:** B.S. in Systems Engineering (Universidad Vasco de Quiroga)
@@ -38,22 +44,22 @@ A full-stack, dark-themed (Obsidian-glassmorphic UI) Learning Management System 
 * **Tech Stack:** Vue.js 3, TypeScript, Node.js, Express, PostgreSQL, JWT Authentication.
 * **Key Features:** Decoupled architecture, token-based security, asynchronous stream processing, and complex relational persistence for academic tracking.
 
-#### 💵 [Cash-Distribution Logic Engine](https://github.com/AlejandroG-code)
-A algorithmic cash-handling software engine designed for optimal currency distribution.
-* **Tech Stack:** C++, Dynamic Programming Algorithms, Data Structures.
-* **Key Features:** Real-time denomination calculation using dynamic programming for MXN currency optimization.
-
 #### ⚽ [Tactical Football Line-Up Simulator](https://github.com/AlejandroG-code)
 A peer-to-peer real-time tactical match simulation application.
 * **Tech Stack:** Next.js, Client-side engine, Kaggle Sports Datasets.
 * **Key Features:** Standalone parameter synchronization and real-time tactical adjustments based on player analytics.
+
+#### 💵 [Cash-Distribution Logic Engine](https://github.com/AlejandroG-code)
+An algorithmic cash-handling software engine designed for optimal currency distribution.
+* **Tech Stack:** C++, Dynamic Programming Algorithms, Data Structures.
+* **Key Features:** Real-time denomination calculation using dynamic programming for MXN currency optimization.
 
 ---
 
 ### 🏆 Achievements & Competitive Programming
 
 #### **IEEEXtreme Global Competitions**
-* **IEEEXtreme 19.0:** Ranked **1,033** out of 8,169 teams worldwide 🌎
+* 🚀 **IEEEXtreme 19.0:** Ranked **1,033** out of 8,169 teams worldwide *(Team: LosPimientosMorron — Score: 1506.26)*
 * **IEEEXtreme 18.0:** Ranked **1,717** out of 5,801 teams worldwide 🌎
 * **IEEEXtreme 17.0:** Ranked **2,367** out of 7,091 teams worldwide 🌎
 * **IEEEXtreme Practice Community:** Ranked **261** out of 19,908 participants
@@ -72,11 +78,18 @@ A peer-to-peer real-time tactical match simulation application.
 
 ---
 
-### 📊 GitHub Stats & Productivity
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- General Stats -->
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=AlejandroG-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex's GitHub Stats" />
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlejandroG-code&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- General GitHub Stats -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroG-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex's GitHub Stats" />
   
   <!-- Contribution Streak -->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroG-code&theme=tokyonight&hide_border=true" alt="Streak Stats" />
@@ -86,7 +99,7 @@ A peer-to-peer real-time tactical match simulation application.
 
 <div align="center">
   <!-- Top Languages -->
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlejandroG-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroG-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
