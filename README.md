@@ -12,7 +12,7 @@
 
 I am a **Systems Engineering student** at **Universidad Vasco de Quiroga (UVAQ)** with a strong focus on full-stack web development, backend architecture, dynamic systems, and competitive programming.
 
-* 🔭 **Focus:** Full-Stack Development, Relational Databases & Microcontroller Logic
+* 🔭 **Focus:** Full-Stack Web Development, Backend Architecture & Relational Databases
 * 🎓 **Education:** B.S. in Systems Engineering (Universidad Vasco de Quiroga)
 * 💡 **Interests:** Algorithm Optimization, Competitive Programming & Tech Leadership
 * 💬 **Languages:** Spanish (Native) | English (C1 Certified)
@@ -27,7 +27,7 @@ I am a **Systems Engineering student** at **Universidad Vasco de Quiroga (UVAQ)*
 | **Frontend** | `Vue.js 3` `Next.js` `React` `Tailwind CSS` `HTML5/CSS3` |
 | **Backend & Databases**| `Node.js` `Express` `PostgreSQL` `MySQL` `REST APIs` `JWT / OAuth` |
 | **Tools & OS** | `Git` `GitHub` `Linux (EndeavourOS)` `Docker` `VS Code` |
-| **Engineering** | Data Structures, Algorithm Optimization, Embedded Systems (ESP32) |
+| **Engineering** | Data Structures, Algorithm Optimization, System Design, OOP |
 
 ---
 
@@ -38,10 +38,10 @@ A full-stack, dark-themed (Obsidian-glassmorphic UI) Learning Management System 
 * **Tech Stack:** Vue.js 3, TypeScript, Node.js, Express, PostgreSQL, JWT Authentication.
 * **Key Features:** Decoupled architecture, token-based security, asynchronous stream processing, and complex relational persistence for academic tracking.
 
-#### 💵 [Automated Cash-Handling ATM Logic](https://github.com/AlejandroG-code)
-A hardware/software project designed for currency distribution optimization and physical bill handling.
-* **Tech Stack:** Embedded C/C++, Microcontrollers, Dynamic Programming Algorithms.
-* **Key Features:** Real-time denomination calculation using dynamic programming for MXN currency distribution and hardware actuation.
+#### 💵 [Cash-Distribution Logic Engine](https://github.com/AlejandroG-code)
+A algorithmic cash-handling software engine designed for optimal currency distribution.
+* **Tech Stack:** C++, Dynamic Programming Algorithms, Data Structures.
+* **Key Features:** Real-time denomination calculation using dynamic programming for MXN currency optimization.
 
 #### ⚽ [Tactical Football Line-Up Simulator](https://github.com/AlejandroG-code)
 A peer-to-peer real-time tactical match simulation application.
