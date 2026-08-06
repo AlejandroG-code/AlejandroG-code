@@ -53,7 +53,7 @@ A peer-to-peer real-time tactical match simulation application.
 ### 🏆 Achievements & Competitive Programming
 
 #### **IEEEXtreme Global Competitions**
-* 🚀 **IEEEXtreme 19.0:** Ranked **1,033** out of 8,169 teams worldwide *(Team: LosPimientosMorron — Score: 1506.26)*
+* **IEEEXtreme 19.0:** Ranked **1,033** out of 8,169 teams worldwide 🌎
 * **IEEEXtreme 18.0:** Ranked **1,717** out of 5,801 teams worldwide 🌎
 * **IEEEXtreme 17.0:** Ranked **2,367** out of 7,091 teams worldwide 🌎
 * **IEEEXtreme Practice Community:** Ranked **261** out of 19,908 participants
