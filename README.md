@@ -1,25 +1,99 @@
-# Hello, I'm Luis Alejandro Gonzalez Gil! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there, I'm Luis Alejandro González Gil! 👋 
 
-## About Me
-I am a passionate Systems Engineering student at Universidad Vasco de Quiroga (UVAQ) with a strong desire to learn and work. My passion for technology drives me to continuously seek new skills and knowledge, allowing me to grow both personally and professionally.
+<div align="left">
+  <img src="https://img.shields.io/badge/Degree-Systems%20Engineering-blue?style=for-the-badge&logo=academic" alt="Systems Engineering" />
+  <img src="https://img.shields.io/badge/University-UVAQ-red?style=for-the-badge" alt="UVAQ" />
+  <img src="https://img.shields.io/badge/Location-Morelia%2C%20Michoacán%2C%20MX-green?style=for-the-badge&logo=googlemaps" alt="Location" />
+</div>
 
-## Skills
-- **Programming Languages:** Python, Java
-- **Technical Knowledge:** Networks, Operating Systems
-- **Languages:** Spanish (Native), English (C1 certificated)
+---
 
-## Achievements
-- 2 first places in internal programming competitions 
-- 1 second place in internal programming competitions
-- Ranked 2367 out of 7091 globally in IEEExtreme 17.0.
-- Ranked 1717 out of 5801 globally in IEEExtreme 18.0.
-- Ranked 261 out of 19908 globally in IEEExtreme Practice Comunity
+### 👨‍💻 About Me
 
+I am a **Systems Engineering student** at **Universidad Vasco de Quiroga (UVAQ)** with a strong focus on full-stack web development, backend architecture, dynamic systems, and competitive programming.
 
-## Experience
-- Experience teaching java basics for begginers (6 months)
-- Experience teaching python basics for begginers (6 months)
+* 🔭 **Focus:** Full-Stack Development, Relational Databases & Microcontroller Logic
+* 🎓 **Education:** B.S. in Systems Engineering (Universidad Vasco de Quiroga)
+* 💡 **Interests:** Algorithm Optimization, Competitive Programming & Tech Leadership
+* 💬 **Languages:** Spanish (Native) | English (C1 Certified)
 
-## Contact
-- **Email:** [alejandro.g.engineer@gmail.com](mailto:alejandro.g.engineer@gmail.com)
-- **LinkedIn:** [linkedin.com/in/alejandro-gonzalez-06b69031b](#)
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Python` `C++` `Java` `SQL` `Bash` |
+| **Frontend** | `Vue.js 3` `Next.js` `React` `Tailwind CSS` `HTML5/CSS3` |
+| **Backend & Databases**| `Node.js` `Express` `PostgreSQL` `MySQL` `REST APIs` `JWT / OAuth` |
+| **Tools & OS** | `Git` `GitHub` `Linux (EndeavourOS)` `Docker` `VS Code` |
+| **Engineering** | Data Structures, Algorithm Optimization, Embedded Systems (ESP32) |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎓 [EduLabs — Modern Learning Management System](https://github.com/AlejandroG-code)
+A full-stack, dark-themed (Obsidian-glassmorphic UI) Learning Management System inspired by Canvas.
+* **Tech Stack:** Vue.js 3, TypeScript, Node.js, Express, PostgreSQL, JWT Authentication.
+* **Key Features:** Decoupled architecture, token-based security, asynchronous stream processing, and complex relational persistence for academic tracking.
+
+#### 💵 [Automated Cash-Handling ATM Logic](https://github.com/AlejandroG-code)
+A hardware/software project designed for currency distribution optimization and physical bill handling.
+* **Tech Stack:** Embedded C/C++, Microcontrollers, Dynamic Programming Algorithms.
+* **Key Features:** Real-time denomination calculation using dynamic programming for MXN currency distribution and hardware actuation.
+
+#### ⚽ [Tactical Football Line-Up Simulator](https://github.com/AlejandroG-code)
+A peer-to-peer real-time tactical match simulation application.
+* **Tech Stack:** Next.js, Client-side engine, Kaggle Sports Datasets.
+* **Key Features:** Standalone parameter synchronization and real-time tactical adjustments based on player analytics.
+
+---
+
+### 🏆 Achievements & Competitive Programming
+
+#### **IEEEXtreme Global Competitions**
+* 🚀 **IEEEXtreme 19.0:** Ranked **1,033** out of 8,169 teams worldwide *(Team: LosPimientosMorron — Score: 1506.26)*
+* **IEEEXtreme 18.0:** Ranked **1,717** out of 5,801 teams worldwide 🌎
+* **IEEEXtreme 17.0:** Ranked **2,367** out of 7,091 teams worldwide 🌎
+* **IEEEXtreme Practice Community:** Ranked **261** out of 19,908 participants
+
+#### **Internal & Regional Competitions**
+* 🥇 **1st Place** (x2) — University Internal Programming Competitions
+* 🥈 **2nd Place** (x1) — University Internal Programming Competition
+
+---
+
+### 🏫 Teaching & Leadership Experience
+
+* **Student Hackathon Organizer:** Lead operational planner for 24-hour campus hackathons, budgeting, and competitive programming activities.
+* **Java Instructor for Beginners** *(6 months)* — Taught OOP fundamentals, control structures, and algorithm design.
+* **Python Instructor for Beginners** *(6 months)* — Mentored students in basic syntax, data structures, and problem-solving techniques.
+
+---
+
+### 📊 GitHub Stats & Productivity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlejandroG-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroG-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlejandroG-code&theme=tokyonight&hide_border=true&layout=compact" alt="Most Productive Hours" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="left">
+  <a href="mailto:alejandro.g.engineer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alejandro.g.engineer%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/alejandro-gonzalez-06b69031b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
